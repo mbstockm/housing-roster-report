@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f2d164ec-b886-4fe1-8703-cb12437f70cb" name="jobsub">
+        <fileTransfer rootFolder="/home/mbstockm" accessType="SFTP" host="ban-jobsub-01.utica.edu" port="22" sshConfigId="a6df0220-feb1-4255-a628-1f3d49934497" sshConfig="mbstockm@ban-jobsub-01.utica.edu:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

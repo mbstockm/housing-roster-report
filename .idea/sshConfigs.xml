@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="ban-jobsub-01.utica.edu" id="a6df0220-feb1-4255-a628-1f3d49934497" keyPath="C:\Users\mbstockm\.ssh\id_ed25519_mbstockm_jobsub_laptop" port="22" nameFormat="DESCRIPTIVE" username="mbstockm" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
